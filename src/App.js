@@ -59,7 +59,7 @@ export default () => {
                         </Typography>
                     </Centered>
                 </Grid>
-                <Divider style={{ margin: 15 }} />
+                <Divider style={{ margin: 20 }} />
                 <Grid container>
                     <Centered>
                         <Typography variant="h3">About</Typography>
@@ -78,6 +78,23 @@ export default () => {
                             stopped requiring high statistics/skill levels, and
                             now focus primarily on our players. We regularly
                             host events, giveaways, and more!
+                        </Typography>
+                    </Centered>
+                </Grid>
+                <Grid container>
+                    <Centered>
+                        <Typography variant="h3" style={{ marginTop: 20 }}>
+                            Join Us
+                        </Typography>
+                    </Centered>
+                    <Centered>
+                        <Typography
+                            variant="body1"
+                            style={{ textAlign: "center" }}
+                        >
+                            If you want to join, feel free! Simply join our
+                            Discord, tell us a bit about yourself, and you will
+                            get the benefits we have to offer!
                         </Typography>
                     </Centered>
                 </Grid>
