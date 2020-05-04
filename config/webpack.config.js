@@ -45,14 +45,11 @@ module.exports = function (webpackEnv) {
 
     const env = getClientEnvironment(paths.publicUrlOrPath.slice(0, -1))
 
-    // common function to get style loaders
     const getStyleLoaders = (cssOptions) => {
         const loaders = [
             isEnvDevelopment && require.resolve("style-loader"),
             isEnvProduction && {
                 loader: MiniCssExtractPlugin.loader,
-                // css is located in `static/css`, use '../../' to locate index.html folder
-                // in production `paths.publicUrlOrPath` can be a relative path
                 options: paths.publicUrlOrPath.startsWith(".")
                     ? { publicPath: "../../" }
                     : {},
@@ -93,8 +90,6 @@ module.exports = function (webpackEnv) {
                 ? "source-map"
                 : false
             : isEnvDevelopment && "cheap-module-source-map",
-        // These are the "entry points" to our application.
-        // This means they will be the "root" imports that are included in JS bundle.
         entry: [
             isEnvDevelopment &&
                 require.resolve("react-dev-utils/webpackHotDevClient"),
@@ -174,9 +169,6 @@ module.exports = function (webpackEnv) {
                     },
                 }),
             ],
-            // Automatically split vendor and commons
-            // https://twitter.com/wSokra/status/969633336732905474
-            // https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366
             splitChunks: {
                 chunks: "all",
                 name: false,
@@ -201,8 +193,6 @@ module.exports = function (webpackEnv) {
                 ...(modules.webpackAliases || {}),
             },
             plugins: [
-                // Adds support for installing with Plug'n'Play, leading to faster installs and adding
-                // guards against forgotten dependencies and such.
                 PnpWebpackPlugin,
                 new ModuleScopePlugin(paths.appSrc, [paths.appPackageJson]),
             ],
@@ -285,7 +275,6 @@ module.exports = function (webpackEnv) {
                                     ],
                                 ],
                                 cacheDirectory: true,
-                                // See #6846 for context on why cacheCompression is disabled
                                 cacheCompression: false,
                                 sourceMaps: shouldUseSourceMap,
                                 inputSourceMap: shouldUseSourceMap,
@@ -350,8 +339,6 @@ module.exports = function (webpackEnv) {
                 new WatchMissingNodeModulesPlugin(paths.appNodeModules),
             isEnvProduction &&
                 new MiniCssExtractPlugin({
-                    // Options similar to the same options in webpackOptions.output
-                    // both options are optional
                     filename: "static/css/[name].[contenthash:8].css",
                     chunkFilename:
                         "static/css/[name].[contenthash:8].chunk.css",

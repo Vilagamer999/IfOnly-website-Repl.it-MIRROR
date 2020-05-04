@@ -17,17 +17,10 @@ module.exports = function (proxy, allowedHost) {
         disableHostCheck:
             !proxy || process.env.DANGEROUSLY_DISABLE_HOST_CHECK === "true",
         compress: true,
-        // Silence WebpackDevServer's own logs since they're generally not useful.
         clientLogLevel: "none",
         contentBase: paths.appPublic,
         contentBasePublicPath: paths.publicUrlOrPath,
-        // By default files from `contentBase` will not trigger a page reload.
         watchContentBase: true,
-        // Enable hot reloading server. It will provide WDS_SOCKET_PATH endpoint
-        // for the WebpackDevServer client so it can learn when the files were
-        // updated. The WebpackDevServer client is included as an entry point
-        // in the webpack development configuration. Note that only changes
-        // to CSS are currently hot reloaded. JS changes will refresh the browser.
         hot: true,
         // Use 'ws' instead of 'sockjs-node' on server since we're using native
         // websockets in `webpackHotDevClient`.
@@ -42,8 +35,6 @@ module.exports = function (proxy, allowedHost) {
         quiet: true,
         // Reportedly, this avoids CPU overload on some systems.
         // https://github.com/facebook/create-react-app/issues/293
-        // src/node_modules is not ignored to support absolute imports
-        // https://github.com/facebook/create-react-app/issues/1065
         watchOptions: {
             ignored: ignoredFiles(paths.appSrc),
         },
@@ -57,11 +48,8 @@ module.exports = function (proxy, allowedHost) {
             index: paths.publicUrlOrPath,
         },
         public: allowedHost,
-        // `proxy` is run between `before` and `after` `webpack-dev-server` hooks
         proxy,
         before(app, server) {
-            // Keep `evalSourceMapMiddleware` and `errorOverlayMiddleware`
-            // middlewares before `redirectServedPath` otherwise will not have any effect
             // This lets us fetch source contents from webpack for the error overlay
             app.use(evalSourceMapMiddleware(server))
             // This lets us open files from the runtime error overlay.
@@ -73,7 +61,6 @@ module.exports = function (proxy, allowedHost) {
             }
         },
         after(app) {
-            // Redirect to `PUBLIC_URL` or `homepage` from `package.json` if url not match
             app.use(redirectServedPath(paths.publicUrlOrPath))
         },
     }
