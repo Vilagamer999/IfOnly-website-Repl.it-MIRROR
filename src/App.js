@@ -92,10 +92,10 @@ export default () => {
                             variant="body1"
                             style={{ textAlign: "center" }}
                         >
-                            Our guild has a lot of things to offer to our members,
-                            including weekly game nights, an SMP server, the [I] tag
-                            on Hypixel, and lots of friendly faces to play and chat
-                            with!
+                            Our guild has a lot of things to offer to our
+                            members, including weekly game nights, an SMP
+                            server, the [I] tag on Hypixel, and lots of friendly
+                            faces to play and chat with!
                         </Typography>
                     </Centered>
                 </Grid>
