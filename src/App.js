@@ -84,6 +84,24 @@ export default () => {
                 <Grid container>
                     <Centered>
                         <Typography variant="h3" style={{ marginTop: 20 }}>
+                            Benefits
+                        </Typography>
+                    </Centered>
+                    <Centered>
+                        <Typography
+                            variant="body1"
+                            style={{ textAlign: "center" }}
+                        >
+                            Our guild has a lot of things to offer to our members,
+                            including weekly game nights, an SMP server, the [I] tag
+                            on Hypixel, and lots of friendly faces to play and chat
+                            with!
+                        </Typography>
+                    </Centered>
+                </Grid>
+                <Grid container>
+                    <Centered>
+                        <Typography variant="h3" style={{ marginTop: 20 }}>
                             Join Us
                         </Typography>
                     </Centered>
