@@ -2,28 +2,28 @@
 
 ## Guildmaster
 
-jumbocakeyumyum (rdil#4167)
+Jumbocakeyumyum
 
 ## Co-Guildmasters
 
-iJK49 (JK49#5857)
+iJK49
 
-KoreanSushi2 (KoreanSushi2#2353)
+KoreanSushi2
 
 ## Head Officer
 
-DeadBoii (DeadBoii#8352)
+DeadBoii
 
 ## Officers
 
-Vilagamer999 (Vilagamer999#5700)
+Vilagamer999
 
-BulbJake (Bulb#7814)
+BulbJake
 
-Derpspace (Derpspace#0449)
+Derpspace
 
-PdxEmo03 (PdxEmo03#4255)
+PdxEmo03
 
-skeppylol (Raymond#2829)
+skeppylol
 
-Sponsor_Me (Sponsor_Me#3813)
+Sponsor_Me
