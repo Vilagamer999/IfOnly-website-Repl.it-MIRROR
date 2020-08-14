@@ -65,11 +65,6 @@ checkBrowsers(paths.appPath, isInteractive)
                 console.log(chalk.yellow("Compiled with warnings.\n"))
                 console.log(warnings.join("\n\n"))
                 console.log(
-                    "\nSearch for the " +
-                        chalk.underline(chalk.yellow("keywords")) +
-                        " to learn more about each warning."
-                )
-                console.log(
                     "To ignore, add " +
                         chalk.cyan("// eslint-disable-next-line") +
                         " to the line before.\n"

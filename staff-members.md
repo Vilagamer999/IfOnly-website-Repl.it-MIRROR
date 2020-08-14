@@ -1,14 +1,12 @@
-# Staff Members ofthe IfOnly Guild (according to the discord roles)
+# Staff Members of the IfOnly Guild
 
 ## Guildmaster
 
-Jumbocakeyumyum
+jumbocakeyumyum
 
 ## Co-Guildmasters
 
-iJK49
-
-KoreanSushi2
+mo0nless
 
 ## Head Officer
 
