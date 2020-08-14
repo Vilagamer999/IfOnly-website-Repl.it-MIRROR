@@ -15,10 +15,10 @@ This repo is the official website for the IfOnly hypixel guild!
 
 ## Just look at all of our badges
 
-[![GitHub issues](https://img.shields.io/github/issues/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/issues)
-[![GitHub forks](https://img.shields.io/github/forks/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/network)
-[![GitHub stars](https://img.shields.io/github/stars/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/stargazers)
-[![GitHub license](https://img.shields.io/github/license/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/blob/master/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/issues)<br/>
+[![GitHub forks](https://img.shields.io/github/forks/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/network)<br/>
+[![GitHub stars](https://img.shields.io/github/stars/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/stargazers)<br/>
+[![GitHub license](https://img.shields.io/github/license/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/blob/master/LICENSE)<br/>
 
 
 ## Like what you see? Share this repository with your (coder) friends!<br/>
