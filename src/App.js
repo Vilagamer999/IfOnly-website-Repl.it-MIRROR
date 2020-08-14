@@ -51,9 +51,9 @@ export default () => {
                         </div>
         // [END OF BANNER]
         
-                        <Typography style={{ flexGrow: 1 }} variant="h6">
-                            The IfOnly Guild
-                        </Typography>
+                        //<Typography style={{ flexGrow: 1 }} variant="h6">
+                        //    The IfOnly Guild
+                        //</Typography>
                         {navbarItems}
                     </Toolbar>
                 </AppBar>
