@@ -21,6 +21,7 @@ This repo is the official website for the IfOnly hypixel guild!
 [![GitHub license](https://img.shields.io/github/license/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/blob/master/LICENSE)<br/><br/>
 [![RDIL](https://img.shields.io/badge/RDIL-Passing-green)](https://img.shields.io/badge/RDIL-Passing-green)<br/>
 [![Vila](https://img.shields.io/badge/Vila-Approved-brightgreen)](https://img.shields.io/badge/Vila-Approved-brightgreen)<br/>
+[![raymond](https://img.shields.io/badge/Raymond-Error-lightgrey)](https://img.shields.io/badge/Raymond-Error-lightgrey)<br/>
 
 
 
