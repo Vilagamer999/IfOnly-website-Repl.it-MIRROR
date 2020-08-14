@@ -1,4 +1,7 @@
 import React from "react"
+
+import bann from './img/banner.png'; // cool banner
+
 import {
     AppBar,
     Toolbar,
@@ -41,6 +44,13 @@ export default () => {
             <nav style={{ flexGrow: 1 }}>
                 <AppBar position="static">
                     <Toolbar>
+        
+        // This will probably somehow crash the website...
+                        <div>
+                            <img src={bann} alt="IfOnly Banner" />
+                        </div>
+        // [END OF BANNER]
+        
                         <Typography style={{ flexGrow: 1 }} variant="h6">
                             The IfOnly Guild
                         </Typography>
