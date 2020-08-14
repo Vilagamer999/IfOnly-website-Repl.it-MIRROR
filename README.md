@@ -25,8 +25,8 @@ This repo is the official website for the IfOnly hypixel guild!
 [![raymond](https://img.shields.io/badge/Raymond-Error-lightgrey)](https://img.shields.io/badge/Raymond-Error-lightgrey)<br/>
 
 ![not a Mozilla Add-on](https://img.shields.io/amo/stars/dustman)<br/> <!-- no one will ever know (that the stars aren't from this repo) -->
-![defenetly not a Vaadin Directory](https://img.shields.io/vaadin-directory/rating/vaadinvaadin-grid)
-
+![defenetly not a Vaadin Directory](https://img.shields.io/vaadin-directory/rating/vaadinvaadin-grid)<br/>
+![Puppet Forge feedback score](https://img.shields.io/puppetforge/f/puppetlabs/docker)<br/>
 
 
 
