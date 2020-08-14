@@ -1,3 +1,4 @@
+<details>
 This repo is the official website for the IfOnly hypixel guild!
 
 ---
@@ -57,3 +58,4 @@ This section has moved here: https://create-react-app.dev/docs/advanced-configur
 ### `yarn build` fails to minify
 
 This section has moved here: https://create-react-app.dev/docs/troubleshooting#npm-run-build-fails-to-minify
+</details>
