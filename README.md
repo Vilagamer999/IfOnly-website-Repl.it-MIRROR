@@ -1,4 +1,5 @@
 
+<hr>
 #### Old Description:
 <details>
 This repo is the official website for the IfOnly hypixel guild!
