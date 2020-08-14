@@ -1,4 +1,4 @@
-# Staff Members of IfOnly Guild
+# Staff Members ofthe IfOnly Guild (according to the discord roles)
 
 ## Guildmaster
 
@@ -6,22 +6,24 @@ jumbocakeyumyum (rdil#4167)
 
 ## Co-Guildmasters
 
-BulbJake (Bulb#7814)
-
 iJK49 (JK49#5857)
 
-Vilagamer999 (Vilagamer999#5700)
+KoreanSushi2 (KoreanSushi2#2353)
+
+## Head Officer
+
+DeadBoii (DeadBoii#8352)
 
 ## Officers
 
-(officers which idk)
+Vilagamer999 (Vilagamer999#5700)
 
-## Trusted
+BulbJake (Bulb#7814)
+
+Derpspace (Derpspace#0449)
+
+PdxEmo03 (PdxEmo03#4255)
 
 skeppylol (Raymond#2829)
 
-(some people else)
-
-## Additional Notes
-
-yeah too lazy to code html so this is an idea do not use it as a page
+Sponsor_Me (Sponsor_Me#3813)
