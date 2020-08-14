@@ -24,7 +24,7 @@ This repo is the official website for the IfOnly hypixel guild!
 [![Vila](https://img.shields.io/badge/Vila-Approved-brightgreen)](https://img.shields.io/badge/Vila-Approved-brightgreen)<br/>
 [![raymond](https://img.shields.io/badge/Raymond-Error-lightgrey)](https://img.shields.io/badge/Raymond-Error-lightgrey)<br/>
 
-![not a Mozilla Add-on](https://img.shields.io/amo/stars/dustman) <!-- no one will ever know (that the stars aren't from this repo) -->
+![not a Mozilla Add-on](https://img.shields.io/amo/stars/dustman)<br/> <!-- no one will ever know (that the stars aren't from this repo) -->
 ![defenetly not a Vaadin Directory](https://img.shields.io/vaadin-directory/rating/vaadinvaadin-grid)
 
 
