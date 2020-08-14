@@ -14,8 +14,8 @@ This repo is the official website for the IfOnly hypixel guild!
 - [@RDIL](https://github.com/RDIL)
 
 ## Just look at all of our badges
-<br/>
-[![GitHub issues](https://img.shields.io/github/issues/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/issues)<br/><br/>
+
+<br/>[![GitHub issues](https://img.shields.io/github/issues/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/issues)<br/><br/>
 [![GitHub forks](https://img.shields.io/github/forks/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/network)<br/>
 [![GitHub stars](https://img.shields.io/github/stars/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/stargazers)<br/><br/>
 [![GitHub license](https://img.shields.io/github/license/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/blob/master/LICENSE)<br/><br/>
