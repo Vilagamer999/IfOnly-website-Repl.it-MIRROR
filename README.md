@@ -18,7 +18,7 @@ This repo is the official website for the IfOnly hypixel guild!
 
 ## Like what you see? Share this repository with your (coder) friends!<br/>
 
-<a href="https://">![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FIfOnlyGuild%2Fwebsite%2F)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FIfOnlyGuild%2Fwebsite%2F)</a>
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FIfOnlyGuild%2Fwebsite%2F">![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2FIfOnlyGuild%2Fwebsite%2F)</a>
 
 
 
