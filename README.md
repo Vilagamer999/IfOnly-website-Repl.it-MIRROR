@@ -23,6 +23,8 @@ This repo is the official website for the IfOnly hypixel guild!
 [![Vila](https://img.shields.io/badge/Vila-Approved-brightgreen)](https://img.shields.io/badge/Vila-Approved-brightgreen)<br/>
 [![raymond](https://img.shields.io/badge/Raymond-Error-lightgrey)](https://img.shields.io/badge/Raymond-Error-lightgrey)<br/>
 
+![AUR last modified](https://img.shields.io/aur/last-modified/App.js)
+
 
 
 
