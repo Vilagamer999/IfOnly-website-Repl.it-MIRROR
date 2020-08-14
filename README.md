@@ -2,7 +2,7 @@
 
 This repo is the official website for the IfOnly hypixel guild!
 
-## Just look at all of our badges
+## Just look at all of our badges!
 
 [![GitHub issues](https://img.shields.io/github/issues/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/issues)<br/>
 ![GitHub contributors](https://img.shields.io/github/contributors/IfOnlyGuild/website)<br/><br/>
