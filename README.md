@@ -3,7 +3,7 @@
 This repo is the official website for the IfOnly hypixel guild!
 
 ## Just look at all of our badges!
-[![Run on Repl.it](https://repl.it/badge/github/Vilagamer999/IfOnly-website-Repl.it-MIRROR)](https://repl.it/github/Vilagamer999/IfOnly-website-Repl.it-MIRROR)
+[![Run on Repl.it](https://repl.it/badge/github/Vilagamer999/IfOnly-website-Repl.it-MIRROR)](https://repl.it/github/Vilagamer999/IfOnly-website-Repl.it-MIRROR)<br/>
 [![GitHub issues](https://img.shields.io/github/issues/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/issues)<br/>
 ![GitHub contributors](https://img.shields.io/github/contributors/IfOnlyGuild/website)<br/><br/>
 [![GitHub forks](https://img.shields.io/github/forks/IfOnlyGuild/website)](https://github.com/IfOnlyGuild/website/network)<br/>
